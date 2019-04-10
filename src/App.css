@@ -1,3 +1,10 @@
+/* good idea for setting up the body */
+
+body {
+  width: 100vw;
+  min-height: 100vh;
+}
+
 .App {
   text-align: center;
 }
